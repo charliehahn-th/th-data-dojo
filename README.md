@@ -41,11 +41,11 @@ Covers: `Sources → Extract → Warehouse → Transform → Observability → B
 
 | Layer | Tool |
 |-------|------|
-| Sources | TH App · PostgreSQL · Partner APIs |
+| Sources | TH Portal · AWS Connect · Partner APIs |
 | Extract & Load | Fivetran · AWS Lambda · Airflow |
 | Warehouse | Snowflake |
 | Transform | dbt |
-| Observability | Metaplane · GitHub CI |
+| Observability | Metaplane |
 | BI | Sigma |
 | Reverse ETL | Hightouch |
 | Ops Apps | Salesforce · HubSpot |
@@ -54,12 +54,12 @@ Covers: `Sources → Extract → Warehouse → Transform → Observability → B
 
 ## 🤝 Contributing
 
-Have an idea for a new example or kata? Open a PR or drop a note in `#data` on Slack.
+Have an idea for a new example? Open a PR or drop a note in `#askdata` on Slack.
 
 Good candidates for future additions:
 - [ ] How a dbt model gets built
 - [ ] How Metaplane catches a bad sync
-- [ ] How Hightouch pushes data to Salesforce
+- [ ] How Hightouch pushes data to Hubspot
 - [ ] Snowflake schema explorer
 
 ---
