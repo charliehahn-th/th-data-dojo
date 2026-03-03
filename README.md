@@ -64,6 +64,15 @@ Good candidates for future additions:
 
 ---
 
-## 📬 Questions?
+## 📬 How to Work With Us
 
-Reach out to the Data team in **#askdata** on Slack.
+We’re here to help! To collaborate with the Data Team:
+
+Reach out in `#askdata` on Slack
+
+When submitting a request, please include:
+- **What** needs to get done
+- **When** it needs to be completed
+- **Why** it needs to be done
+
+Providing these details upfront helps us prioritize effectively and get you the right support faster.
