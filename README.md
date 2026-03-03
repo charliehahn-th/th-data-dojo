@@ -1,6 +1,6 @@
 # 🥋 TH Data Dojo
 
-> Interactive examples of Tomorrow Health's data stack — built to help anyone on the team understand how our data flows, where it lives, and how it powers decisions.
+> Interactive examples of Tomorrow Health's data stack, built to help anyone on the team understand how our data flows, where it lives, and how it powers decisions.
 
 **[→ View the live site](https://charliehahn-th.github.io/th-data-dojo)**
 
