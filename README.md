@@ -52,34 +52,6 @@ Covers: `Sources → Extract → Warehouse → Transform → Observability → B
 
 ---
 
-## 🚀 Running locally
-
-```bash
-# Clone the repo
-git clone https://github.com/charliehahn-th/th-data-dojo.git
-cd th-data-dojo
-
-# Install dependencies
-npm install
-
-# Start the dev server
-npm start
-```
-
-The app will open at `http://localhost:3000`.
-
----
-
-## 📦 Deploying to GitHub Pages
-
-```bash
-npm run deploy
-```
-
-That's it. The site will update at `https://charliehahn-th.github.io/th-data-dojo` within a minute.
-
----
-
 ## 🤝 Contributing
 
 Have an idea for a new example or kata? Open a PR or drop a note in `#data` on Slack.
