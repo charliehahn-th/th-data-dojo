@@ -29,11 +29,11 @@ Covers: `Sources → Extract → Warehouse → Transform → Observability → B
 
 | Belt | What it means |
 |------|--------------|
-| ⬜ White | You can describe what our data stack does |
-| 🟡 Yellow | You know which tool does what and why |
-| 🟠 Orange | You can trace a metric back to its source |
-| 🟢 Green | You can spot a data quality issue before it hits a dashboard |
-| 🔵 Blue | You can build or extend a pipeline yourself |
+| ⬜ White | You understand how data stack works and how key metrics are defined |
+| 🟡 Yellow | You can confidently find answers using existing dashboards and reports |
+| 🟠 Orange | You can slice, dice, and manipulate data within existing reports to answer questions not already summarized |
+| 🟢 Green | You can recognize when something in the data doesn’t look right and raise the right questions |
+| 🔵 Blue | You can create new analyses, write SQL, or use AI tools to answer complex questions independently |
 
 ---
 
