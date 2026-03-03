@@ -10,7 +10,7 @@
 
 The Data Dojo is a collection of interactive, visual examples that demystify our data platform. No SQL required. No prior data experience needed. Just click around and learn.
 
-Think of it as a living playbook — part documentation, part hands-on training ground.
+Think of it as a living playbook: part documentation, part hands-on training ground.
 
 ---
 
